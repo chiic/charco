@@ -1,0 +1,15 @@
+{
+  "name": "charco",
+  "version": "0.0.1",
+  "description": "charcodes",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "chiic",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
